@@ -10,4 +10,6 @@
     <string name="hint">Data from dialog</string>
     <string name="positive">OK</string>
     <string name="negative">Cancel</string>
+    <string name="check_box">Check Box</string>
+    <string name="frag_btn">Send</string>
 </resources>
